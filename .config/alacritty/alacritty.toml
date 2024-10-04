@@ -1,0 +1,6 @@
+[window]
+padding = { x = 2, y = 2 }
+
+[font]
+size = 11
+normal = { family = "FiracodeMono", style = "Regular" }
